@@ -9,7 +9,7 @@
 ## Overview
 
 ### Links
-- Live Site URL: [TBC](https://)
+- Live Site URL: [1A2B Game](https://ytc31.github.io/game-1a2b/)
 
 ### Built with
 
